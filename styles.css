@@ -1,0 +1,24 @@
+body {
+  background-image:url("http://wallpapercave.com/wp/kqSMUNE.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  color:white;
+  font-family: 'Audiowide', cursive;
+}
+
+#header {
+  background:rgba(0,0,0,.75);
+  border: 5px solid white;
+  margin-bottom:40px;
+  border-radius:15px;
+}
+
+img {
+  width:200px;
+  border-radius:30%;
+}
+
+.col-md-4{
+  margin-bottom:30px;
+}
